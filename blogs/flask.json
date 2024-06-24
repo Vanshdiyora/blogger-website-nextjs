@@ -1,0 +1,6 @@
+{
+    "slug":"flask",
+    "title":"How to learn Flask",
+    "author":"Vansh Diyora",
+    "content":"Flask-Blogging is a Flask extension for adding Markdown based blog support to your site. It provides a flexible mechanism to store the data in the database of your choice. It is meant to work with the authentication provided by packages such as Flask-Login or Flask-Security. The philosophy behind this extension is to provide a lean app based on Markdown to provide blog support to your existing web application. If you already have a web app and you need to have a blog to communicate with your user or to promote your site through content based marketing, then Flask-Blogging would help you quickly get a blog up and running."
+}
